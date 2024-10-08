@@ -1,0 +1,28 @@
+\\Mac\Home\Documents\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.exe
+\\Mac\Home\Documents\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.deps.json
+\\Mac\Home\Documents\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.runtimeconfig.json
+\\Mac\Home\Documents\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.dll
+\\Mac\Home\Documents\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.pdb
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.AssemblyInfo.cs
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.dll
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\refint\Gradebook_Giannuzzi.dll
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.pdb
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.genruntimeconfig.cache
+\\Mac\Home\Documents\Gradebook_Giannuzzi\obj\Debug\net6.0\ref\Gradebook_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.deps.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.runtimeconfig.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Debug\net6.0\Gradebook_Giannuzzi.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.AssemblyInfo.cs
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\refint\Gradebook_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.pdb
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\Gradebook_Giannuzzi.genruntimeconfig.cache
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\obj\Debug\net6.0\ref\Gradebook_Giannuzzi.dll

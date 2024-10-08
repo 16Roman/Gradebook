@@ -1,0 +1,5 @@
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Release\net6.0\app.publish\Gradebook_Giannuzzi.exe
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Release\net6.0\app.publish\Gradebook_Giannuzzi.dll
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Release\net6.0\app.publish\Gradebook_Giannuzzi.deps.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Release\net6.0\app.publish\Gradebook_Giannuzzi.runtimeconfig.json
+C:\Mac\Home\Documents\LCCC Class Files\CISS222\Gradebook_Giannuzzi\bin\Release\net6.0\app.publish\Gradebook_Giannuzzi.pdb
